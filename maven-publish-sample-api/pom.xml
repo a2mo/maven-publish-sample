@@ -3,7 +3,7 @@
     <parent>
         <artifactId>maven-publish-sample-parent</artifactId>
         <groupId>ir.a2mo.lib</groupId>
-        <version>0.0.17-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
