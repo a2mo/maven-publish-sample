@@ -4,7 +4,7 @@
     <groupId>ir.a2mo.lib</groupId>
     <artifactId>maven-publish-sample-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>maven-publish-sample</name>
     <description>Maven publish sample description</description>
     <url>https://github.com/a2mo/maven-publish-sample</url>
@@ -41,7 +41,7 @@
         <connection>scm:git:https://github.com/a2mo/maven-publish-sample.git</connection>
         <developerConnection>scm:git:https://github.com/a2mo/maven-publish-sample.git
         </developerConnection>
-        <tag>v1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
